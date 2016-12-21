@@ -1,0 +1,4 @@
+{
+    "cmd": ["python","/home/$USER/sublime_builds/build-scripts/java-build-run.py", "$file"],
+    "selector" : "source.java"
+}

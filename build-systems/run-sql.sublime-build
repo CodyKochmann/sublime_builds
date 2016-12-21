@@ -1,0 +1,4 @@
+{
+    "cmd": ["python","/home/$USER/sublime_builds/build-scripts/run_sql.py", "/tmp/tmp.db", "$file"],
+    "selector" : "source.sql"
+}
